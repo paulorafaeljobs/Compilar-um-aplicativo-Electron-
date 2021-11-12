@@ -1,8 +1,8 @@
 # Compilar um aplicativo Electron 
 
-## Você precisa usar Electron Packager .
+Você precisa usar Electron Packager .
 
-* Instale usando:
+Instale usando:
 
 # for use in npm scripts
 npm install electron-packager --save-dev
