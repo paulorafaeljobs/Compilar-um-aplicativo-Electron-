@@ -21,9 +21,9 @@ Instale usando:
 <li>npm install electron-packager -g</li>
 <br>
 E empacote ou implemente usando:
-
+<br>
 <li>electron-packager DIRETORIO NOMEDOAPP --platform=win32 --Arch=x86_64</li>
-
+<br>
 O comando acima pode gerar um erro
 
 Arco não suportado = x86_64 (string); deve ser uma sequência correspondente: ia32, x64, armv7l, arm64, mips64el
