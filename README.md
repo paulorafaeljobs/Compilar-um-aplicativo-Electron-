@@ -29,5 +29,5 @@ O comando acima pode gerar um erro
 Arco não suportado = x86_64 (string); deve ser uma sequência correspondente: ia32, x64, armv7l, arm64, mips64el
 
 Sugerido o uso de uma das opções de ia32, x64, armv7l, arm64, mips64el
-
-<li>electron-packager <sourcedir> <appname> --platform=win32 --Arch=x64</li>
+<br>
+electron-packager <sourcedir> <appname> --platform=win32 --Arch=x64 
