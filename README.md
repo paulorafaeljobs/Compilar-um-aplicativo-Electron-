@@ -15,12 +15,11 @@ Você precisa usar Electron Packager .
 
 Instale usando:
 
-# for use in npm scripts
-npm install electron-packager --save-dev
 
-# for use from cli
-npm install electron-packager -g
-
+* npm install electron-packager --save-dev
+<br>
+* npm install electron-packager -g
+<br>
 E empacote ou implemente usando:
 
 electron-packager DIRETORIO NOMEDOAPP --platform=win32 --Arch=x86_64
