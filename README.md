@@ -15,10 +15,10 @@ Você precisa usar Electron Packager .
 
 Instale usando:
 
-
-* npm install electron-packager --save-dev
+<li>npm install electron-packager --save-dev</li>
 <br>
-* npm install electron-packager -g
+
+<li>npm install electron-packager -g</li>
 <br>
 E empacote ou implemente usando:
 
